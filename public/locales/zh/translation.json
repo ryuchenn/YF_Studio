@@ -1,0 +1,84 @@
+{
+    "Home": {
+        "Title": "YF STUDIO",
+        "ShortTitle": "PHOTOGRAPHY, MUSIC, WEB AND APP PRODUCTION IN TORONTO",
+        "Services": "服務",
+      
+        "Photography": "攝影",
+        "PhotographyDescription": "我們提供了婚禮公證、婚禮攝影、人像攝影、證件照、跳舞錄影。",
+
+        "StudioDescription": "御風工作室，提供了攝影、錄影，我們提供了攝影棚、錄音室在多倫多市中心。我們的工作室可以滿足製作人、攝影師的各種需求。",
+        "Book": "預約",
+        "BookDescription": "請發送你的問題、建議給我們！ 我們會儘快與您聯絡！",
+        "Contact": "聯絡方式",
+        "Learn": "Learn More",
+        "ShortTitle2": "攝影棚 A",
+        "StudioDescription2": "我們提供無縫牆以及各式節慶造景，提供攝影師創作專業作品",
+        "ShortTitle3": "攝影棚 B",
+        "StudioDescription3": "我們提供無縫牆以及各式節慶造景，提供攝影師創作專業作品",
+        "GalleryTitle": "作品",
+        "AboutUs": "關於我們",
+        "Studio": "工作室"
+    },
+    "Studio": {
+        "PhotoStudioATitle": "Studio A",
+        "PhotoStudioBTitle": "Studio B",
+        "Overview": "總覽",
+        "Equipment": "設備",
+        "Lighting": "燈光",
+        "Floor Plans": "工作室",
+        "Price": "價格"
+    },
+    "Portfolio": {
+        "NotFound": "圖片未找到",
+        "Photography": "攝影",
+        "Videography": "影像記錄",
+        "All": "全部",
+
+        "Portrait": "人像",
+        "Wedding": "婚禮",
+        "Pet": "寵物",
+        "Event": "活動",
+        "Product": "產品",
+        "Other": "其他",
+
+        "Movie": "電影",
+        "MV": "MV",
+        "Shorts": "短影音",
+        "Reels": "短影音",
+
+        "LoadMore": "載入更多"
+    },
+    "Event": {
+        "Title": "活動",
+        "Search": "搜尋",
+        "Newest": "最新",
+        "Oldest": "最舊",
+        "Filter": "篩選",
+        "HideFilters": "隱藏",
+        "Date": "時間",
+        "NotFound": "未找到活動",
+        "Details": "細節",
+        "Field": "領域",
+        "Tags": "標籤",
+        "JoinEvent": "透過Google表單報名"
+    },
+    "Book": {
+        "Title": "預約",
+        "Description": "請發送你的問題、建議給我們！ 我們會儘快與您聯絡！",
+        "Name": "姓名",
+        "Email": "Email",
+        "PhoneNumber": "電話號碼",
+        "InstagramAccount": "Instagram 帳號",
+        "YourMessage": "你的訊息(250字內)",
+        "Comments": "評論",
+        "Submit": "提交",
+        "SendSuccess": "發送成功!",
+        "SendError": "發送失敗. 請再試一次."
+    },
+    "Contact": {
+        "Profession": "人像寫真｜活動記錄",
+        "Xiaohongshu": "小紅書"
+    }
+}
+  

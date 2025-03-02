@@ -1,0 +1,84 @@
+{
+    "Home": {
+        "Title": "YF STUDIO",
+        "ShortTitle": "PHOTOGRAPHY & VIDEOGRAPHY PRODUCTION IN TORONTO",
+        "Services": "Services",
+
+        "Photography": "Photography",
+        "PhotographyDescription": "We offer services for wedding officiation, wedding photography, portrait photography, ID photos, and dance videography.",
+        
+        "StudioDescription": "YF Studio is a 8000 sqft photo, film, and event rental studio in downtown Toronto. Our studios were designed in various styles to meet the different needs of producers, photographers, videographers and other clients.",
+        "Book": "Book",
+        "BookDescription": "Please send us your questions, comments, and requests, as well as any inquiries on booking a tour, and we’ll get in touch with you ASAP!",
+        "Contact": "Contact Us",
+        "Learn": "Learn More",
+        "ShortTitle2": "Studio - Photography A",
+        "StudioDescription2": "We provide seamless backdrops and various festive decorations, offering professional setups for models and photographers to create their art.",
+        "ShortTitle3": "Studio - Photography B",
+        "StudioDescription3": "We provide seamless backdrops and various festive decorations, offering professional setups for models and photographers to create their art.",
+        "GalleryTitle": "Gallery",
+        "AboutUs": "About Us",
+        "Studio": "Studio"
+    },
+    "Studio": {
+        "PhotoStudioATitle": "Studio A",
+        "PhotoStudioBTitle": "Studio B",
+        "Overview": "Overview",
+        "Equipment": "Equipment",
+        "Lighting": "Lighting",
+        "Floor Plans": "Floor Plans",
+        "Price": "Price"
+    },
+    "Portfolio": {
+        "NotFound": "Image not found.",
+        "Photography": "Photography",
+        "Videography": "Videography",
+        "All": "All",
+
+        "Portrait": "Portrait",
+        "Wedding": "Wedding",
+        "Pet": "Pet",
+        "Event": "Event",
+        "Product": "Product",
+        "Other": "Other",
+
+        "Movie": "Movie",
+        "MV": "MV",
+        "Shorts": "Shorts",
+        "Reels": "Reels",
+        
+        "LoadMore": "Load More"
+    },
+    "Event": {
+        "Title": "Events",
+        "Search": "Search",
+        "Newest": "Newest",
+        "Oldest": "Oldest",
+        "Filter": "Filter",
+        "HideFilters": "Hide",
+        "Date": "Date",
+        "NotFound": "Event not found.",
+        "Details": "Details",
+        "Field": "Field",
+        "Tags": "Tags",
+        "JoinEvent": "Join Event by Form"
+    },
+    "Book": {
+        "Title": "Book",
+        "Description": "Please send us your questions, comments, and requests, as well as any inquiries on booking a tour, and we’ll get in touch with you ASAP!",
+        "Name": "Name",
+        "Email": "Email",
+        "PhoneNumber": "Phone Number",
+        "InstagramAccount": "Instagram Account",
+        "YourMessage": "Your Message(250 words)",
+        "Comments": "Comments",
+        "Submit": "Submit",
+        "SendSuccess": "Message sent successfully!",
+        "SendError": "Failed to send the message. Please try again."
+    },
+    "Contact": {
+        "Profession": "Portrait｜Event",
+        "Xiaohongshu": "Red Note"
+    }
+}
+  

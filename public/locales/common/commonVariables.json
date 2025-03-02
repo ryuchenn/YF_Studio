@@ -1,0 +1,33 @@
+{
+    
+    "SystemConfig": {
+        "404": "404 - Something went wrong",
+        "500": "500 - Something went wrong",
+        "StudioTitle": "YF Studio",
+        "StudioDescription": "YF Studio Portfolio",
+        "StudioAuthor": "Author",
+        "StudioCategory": "Photographer, Videography"
+    },
+    "Information": {
+        "StudioName": "YF Studio",
+        "Mail": "YF@gmail.com",
+        "Tel": "(+1) 437-012-3456",
+        "Address": "565 Bloor Street West, Toronto, ON M5S 1Y6"
+    },
+    "SocialMedia": {
+        "YoutubeLink": "#",
+        "InstagramLink": "#",
+        "FacebookLink": "#",
+        "TiktokLink": "#",
+        "TwitterLink": "#",
+        "XiaohongshuLink": "#",
+
+        "YoutubeAccount": "@YF.Studio",
+        "InstagramAccount": "@YF.Studio",
+        "FacebookAccount": "@YF.Studio",
+        "TiktokAccount": "@YF.Studio",
+        "TwitterAccount": "@YF.Studio",
+        "XiaohongshuAccount": "@YF.Studio"
+    }
+}
+  
