@@ -130,14 +130,14 @@ const HomePage = () => {
                     <div className={styles.studioText}>
                         <h2 className={styles.studioSubtitle}>{t("translation:Home.ShortTitle3")}</h2>
                         <p className={styles.studioDescription}>{t("translation:Home.StudioDescription3")}</p>
-                        <Link href="/studio/musicA" className={styles.studioButton}>
+                        <Link href="/studio/photoB" className={styles.studioButton}>
                             {t("translation:Home.Learn")}
                         </Link>
                     </div>
                     {isMobile && (
                         <div className={styles.studioImageWrapper}>
                             <Image
-                                src="/assets/icons/studioB.png"
+                                src="/assets/content/home/studioB.png"
                                 alt="Studio B"
                                 className={styles.studioImage}
                                 width={500} height={500} priority
